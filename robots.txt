@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://svrgnty.com/sitemap-index.xml
+Host: https://svrgnty.com
